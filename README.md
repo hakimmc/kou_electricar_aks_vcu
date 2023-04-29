@@ -7,7 +7,7 @@
 ### [**LINKEDIN**](https://www.linkedin.com/company/kouelectricar/mycompany/)
 ### [**INSTAGRAM**](https://www.instagram.com/kouelectricar/)
 
-##  **CARDS AND CODE'S!**
+##  **CARDS & CODE'S!**
 
 ### [**RELAY CARD**](103/RELAY_CARD_with_can)
 https://user-images.githubusercontent.com/78184751/235306825-96265e63-7c44-4716-9f90-98c6747f493b.mp4
