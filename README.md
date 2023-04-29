@@ -16,12 +16,25 @@ https://user-images.githubusercontent.com/78184751/235306825-96265e63-7c44-4716-
 
 ![Adsız tasarım](https://user-images.githubusercontent.com/78184751/235307620-76aaf579-0581-4769-9131-93f32dcdcfc7.gif)
 ![Adsız tasarım (2)](https://user-images.githubusercontent.com/78184751/235307964-feee2f45-e433-4a6f-8451-e22bd2bd3b1d.gif)
-
-
+--
 ### [**MAIN AKS-VCU BOARD**](407/AKS_VCU)
 ![Adsız tasarım (3)](https://user-images.githubusercontent.com/78184751/235308127-976690ce-5f91-4c6c-a9cf-5cf490c997e9.gif)
-
+--
 ### [**ESP32 CAN**](ESP32/esp32_can)
 (UNDONE! still upgrading..)
 ![databse](https://user-images.githubusercontent.com/78184751/235308215-75ff5a87-b916-4cad-963d-0e7ec982aa56.PNG)
+--
+### [**NEXTION SCREEN**](Nextion)
+
+## AKS-VCU TEAM MEMBERS LINKEDIN ACCOUNTS
+
+### [**ABDULHAKIM CALGIN**](https://www.linkedin.com/in/abdulhakim-calgin/)
+
+### [**KUBRANUR SENCAN**](https://www.linkedin.com/in/kübranur-şencan-410a30237/)
+### [**AHMET OZBAYSAR**](https://www.linkedin.com/in/ahmetozbysr/)
+### [**YUNUS EMRE GUL**](https://www.linkedin.com/in/yunus-emre-gul-00/)
+### [**FURKAN YASIN AKSEN**](https://www.linkedin.com/in/furkan-yasin-aksen-1098341b5/)
+
+
+
 
