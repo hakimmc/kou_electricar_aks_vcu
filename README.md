@@ -7,7 +7,7 @@
 ### [**LINKEDIN**](https://www.linkedin.com/company/kouelectricar/mycompany/)
 ### [**INSTAGRAM**](https://www.instagram.com/kouelectricar/)
 
-##  **CODE'S DESCRIPTIONS**
+##  **CARDS AND CODE'S!**
 
 ### [**RELAY CARD**](103/RELAY_CARD_with_can)
 https://user-images.githubusercontent.com/78184751/235306825-96265e63-7c44-4716-9f90-98c6747f493b.mp4
@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/78184751/235306825-96265e63-7c44-4716-
 ![databse](https://user-images.githubusercontent.com/78184751/235308215-75ff5a87-b916-4cad-963d-0e7ec982aa56.PNG)
 --
 ### [**NEXTION SCREEN**](Nextion)
-
+--
 ## AKS-VCU TEAM MEMBERS LINKEDIN ACCOUNTS
 
 ### [**ABDULHAKIM CALGIN**](https://www.linkedin.com/in/abdulhakim-calgin/)
