@@ -25,7 +25,8 @@ https://user-images.githubusercontent.com/78184751/235306825-96265e63-7c44-4716-
 ![databse](https://user-images.githubusercontent.com/78184751/235308215-75ff5a87-b916-4cad-963d-0e7ec982aa56.PNG)
 --
 ### [**NEXTION SCREEN**](Nextion)
---
+
+----
 ## AKS-VCU TEAM MEMBERS LINKEDIN ACCOUNTS
 
 ### [**ABDULHAKIM CALGIN**](https://www.linkedin.com/in/abdulhakim-calgin/)
