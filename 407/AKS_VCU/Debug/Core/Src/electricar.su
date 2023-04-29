@@ -1,0 +1,17 @@
+../Core/Src/electricar.c:12:7:GpsToDecimalDegrees	168	static
+../Core/Src/electricar.c:57:7:CalculateHeadingVehicle	72	static
+../Core/Src/electricar.c:102:5:IS_FLOAT	24	static
+../Core/Src/electricar.c:119:6:cci2a	16	static
+../Core/Src/electricar.c:127:7:ccf2a	40	static
+../Core/Src/electricar.c:146:5:IS_CONTAIN	24	static
+../Core/Src/electricar.c:163:7:CONVERT_ASCII	176	dynamic
+../Core/Src/electricar.c:190:5:float2twobyte	16	static
+../Core/Src/electricar.c:212:7:cf2a	24	static
+../Core/Src/electricar.c:226:6:ci2a	16	static
+../Core/Src/electricar.c:234:10:MAP	24	static
+../Core/Src/electricar.c:239:5:calculate_angle	40	static
+../Core/Src/electricar.c:276:5:binarray_to_decimal	24	static
+../Core/Src/electricar.c:284:6:decimal_to_binarray	24	static
+../Core/Src/electricar.c:291:6:NEXTION_SEND	40	static
+../Core/Src/electricar.c:321:5:CAN_Send_With_Feedback	40	static
+../Core/Src/electricar.c:346:5:CAN_Read_With_Feedback	32	static

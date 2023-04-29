@@ -1,0 +1,13 @@
+../Core/Src/main.c:96:5:binarray_to_decimal	24	static
+../Core/Src/main.c:103:5:WaitForMission	32	static
+../Core/Src/main.c:124:10:MAP	24	static
+../Core/Src/main.c:134:5:main	8	static
+../Core/Src/main.c:243:6:SystemClock_Config	88	static
+../Core/Src/main.c:290:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:337:13:MX_CAN_Init	8	static
+../Core/Src/main.c:374:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:456:6:StartDefaultTask	32	static
+../Core/Src/main.c:554:6:StartCan	24	static
+../Core/Src/main.c:579:6:Startrelay	24	static
+../Core/Src/main.c:748:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:765:6:Error_Handler	4	static,ignoring_inline_asm

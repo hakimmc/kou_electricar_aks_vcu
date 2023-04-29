@@ -1,0 +1,17 @@
+electricar.c:12:7:GpsToDecimalDegrees	7
+electricar.c:57:7:CalculateHeadingVehicle	15
+electricar.c:102:5:IS_FLOAT	3
+electricar.c:119:6:cci2a	1
+electricar.c:127:7:ccf2a	4
+electricar.c:146:5:IS_CONTAIN	3
+electricar.c:163:7:CONVERT_ASCII	3
+electricar.c:190:5:float2twobyte	2
+electricar.c:212:7:cf2a	1
+electricar.c:226:6:ci2a	1
+electricar.c:234:10:MAP	1
+electricar.c:239:5:calculate_angle	20
+electricar.c:276:5:binarray_to_decimal	2
+electricar.c:284:6:decimal_to_binarray	2
+electricar.c:291:6:NEXTION_SEND	5
+electricar.c:321:5:CAN_Send_With_Feedback	3
+electricar.c:346:5:CAN_Read_With_Feedback	5

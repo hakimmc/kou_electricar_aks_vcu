@@ -1,0 +1,13 @@
+main.c:96:5:binarray_to_decimal	2
+main.c:103:5:WaitForMission	5
+main.c:124:10:MAP	1
+main.c:134:5:main	1
+main.c:243:6:SystemClock_Config	4
+main.c:290:13:MX_ADC1_Init	3
+main.c:337:13:MX_CAN_Init	2
+main.c:374:13:MX_GPIO_Init	1
+main.c:456:6:StartDefaultTask	9
+main.c:554:6:StartCan	1
+main.c:579:6:Startrelay	15
+main.c:748:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:765:6:Error_Handler	1
